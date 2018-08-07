@@ -9,6 +9,7 @@ The data I'm using comes from the [Kaggle Amazon review competition](https://www
 
 ## Analysis Result
 The LSTM model performs the best (AUC 0.96) but took the longest to train.  
+
 ![roc_lstm](https://user-images.githubusercontent.com/23446412/43758052-bf97af50-99cf-11e8-85fc-83adb9d3f0d0.png)
 
 Please refer to the *.py* files for my code, and *analysis report.pdf* for detailed description of how I pre-processed the data, built up the models and compared the performance of the three methods. 
